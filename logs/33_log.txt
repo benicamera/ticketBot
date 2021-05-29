@@ -1,0 +1,36 @@
+t: Wed May 19 13:41:08 2021 - System:: test ticket with ID 33 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 13:41:14 2021 - System:: Cluebo#9218 closed ticket-33!
+
+t: Wed May 19 13:41:15 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844540202643095552 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540202643095552
+
+t: Wed May 19 13:41:16 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844540208036315136 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540208036315136
+
+t: Wed May 19 13:41:20 2021 - System:: Cluebo#9218 re-opened ticket-33!
+
+t: Wed May 19 13:41:21 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844540227971579974 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540227971579974
+
+t: Wed May 19 13:41:30 2021 - System:: Cluebo#9218 closed ticket-33!
+
+t: Wed May 19 13:41:30 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844540266231627816 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540266231627816
+
+t: Wed May 19 13:41:31 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844540271001731073 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540271001731073
+
+t: Wed May 19 13:41:40 2021 - Cluebo#9218:: Message: <:PES_AngeryWut:643758277230067732>
+Attachements: 
+Message ID: 844540306937872425 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540306937872425
+
+t: Wed May 19 13:41:50 2021 - Cluebo#9218:: Message: warum funktioniert der rename nicht
+Attachements: 
+Message ID: 844540349321445376 | Message URL: https://discord.com/channels/748086299147239464/844540170674241576/844540349321445376
+

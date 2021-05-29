@@ -1,0 +1,18 @@
+t: Wed May 19 13:38:52 2021 - System:: test ticket with ID 32 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 13:39:27 2021 - System:: Cluebo#9218 closed ticket-32!
+
+t: Wed May 19 13:39:28 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844539754564812830 | Message URL: https://discord.com/channels/748086299147239464/844539601006886942/844539754564812830
+
+t: Wed May 19 13:39:29 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844539760093298748 | Message URL: https://discord.com/channels/748086299147239464/844539601006886942/844539760093298748
+
+t: Wed May 19 13:39:34 2021 - System:: Cluebo#9218 re-opened ticket-32!
+
+t: Wed May 19 13:39:35 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844539783291994152 | Message URL: https://discord.com/channels/748086299147239464/844539601006886942/844539783291994152
+

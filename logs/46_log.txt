@@ -1,0 +1,50 @@
+t: Sat May 22 19:09:03 2021 - System:: inf ticket with ID 46 opened by Mindl3ss (246980360066433024)
+
+t: Sat May 22 19:09:03 2021 - System - Message of ServerTicket#2203 edited:: Old Message: <@246980360066433024> Welcome!
+Old Attachements: 
+-------------------------
+New Message: <@246980360066433024> Welcome!
+New Attachements: 
+Message ID: 845709851840872459 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845709851840872459
+
+t: Sat May 22 19:09:15 2021 - Cluebo#9218:: Message: hallo sie wollen mehr support
+Attachements: 
+Message ID: 845709904123789342 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845709904123789342
+
+t: Sat May 22 19:09:18 2021 - Mindl3ss#5900:: Message: hmmmmm kinda sus
+Attachements: 
+Message ID: 845709917410820136 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845709917410820136
+
+t: Sat May 22 19:10:19 2021 - Mindl3ss#5900:: Message: hallo
+Attachements: 
+Message ID: 845710174652203018 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710174652203018
+
+t: Sat May 22 19:10:24 2021 - Mindl3ss#5900:: Message: t.help
+Attachements: 
+Message ID: 845710193564188702 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710193564188702
+
+t: Sat May 22 19:10:42 2021 - Mindl3ss#5900:: Message: t.open
+Attachements: 
+Message ID: 845710273107984384 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710273107984384
+
+t: Sat May 22 19:10:48 2021 - Mindl3ss#5900:: Message: t.close
+Attachements: 
+Message ID: 845710295484727306 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710295484727306
+
+t: Sat May 22 19:10:49 2021 - System:: Mindl3ss#5900 closed ticket-46!
+
+t: Sat May 22 19:10:49 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845710301437231105 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710301437231105
+
+t: Sat May 22 19:10:51 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845710306709471232 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710306709471232
+
+t: Sat May 22 19:10:51 2021 - System - Message of ServerTicket#2203 edited:: Old Message: 
+Old Attachements: 
+-------------------------
+New Message: 
+New Attachements: 
+Message ID: 845710301437231105 | Message URL: https://discord.com/channels/748086299147239464/845709850616922122/845710301437231105
+

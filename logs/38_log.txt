@@ -1,0 +1,56 @@
+t: Wed May 19 13:55:20 2021 - System:: test ticket with ID 38 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 13:55:26 2021 - System:: Cluebo#9218 closed ticket-38!
+
+t: Wed May 19 13:55:27 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844543776125878303 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844543776125878303
+
+t: Wed May 19 13:55:28 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844543781981782088 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844543781981782088
+
+t: Wed May 19 13:55:33 2021 - System:: Cluebo#9218 re-opened ticket-38!
+
+t: Wed May 19 13:55:33 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844543803837775912 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844543803837775912
+
+t: Wed May 19 13:58:21 2021 - Cluebo#9218:: Message: <a:PepeDontHaveTime:585659268057923605>
+Attachements: 
+Message ID: 844544508724117504 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844544508724117504
+
+t: Wed May 19 14:03:48 2021 - Cluebo#9218:: Message: <:kek:788133101431685150>
+Attachements: 
+Message ID: 844545880606244914 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844545880606244914
+
+t: Wed May 19 14:03:54 2021 - Cluebo#9218:: Message: fast schon lustig
+Attachements: 
+Message ID: 844545902660026378 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844545902660026378
+
+t: Wed May 19 14:05:27 2021 - System:: Cluebo#9218 closed ticket-38!
+
+t: Wed May 19 14:05:27 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844546293882683392 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546293882683392
+
+t: Wed May 19 14:05:28 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844546299146534932 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546299146534932
+
+t: Wed May 19 14:06:05 2021 - Cluebo#9218:: Message: <:kek:788133101431685150> <@!422041326586953738> der bot hat 10 min gebraucht um den channel umzunenne
+Attachements: 
+Message ID: 844546455066509343 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546455066509343
+
+t: Wed May 19 14:06:06 2021 - Cluebo#9218:: Message: n
+Attachements: 
+Message ID: 844546459759018024 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546459759018024
+
+t: Wed May 19 14:06:07 2021 - Cluebo#9218:: Message: wtf
+Attachements: 
+Message ID: 844546464042844170 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546464042844170
+
+t: Wed May 19 14:06:12 2021 - Cluebo#9218:: Message: <a:PU_PepeJamVibe:747841968951787530>
+Attachements: 
+Message ID: 844546483487113236 | Message URL: https://discord.com/channels/748086299147239464/844543741385113600/844546483487113236
+

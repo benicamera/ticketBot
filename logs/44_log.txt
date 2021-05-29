@@ -1,0 +1,42 @@
+t: Wed May 19 19:28:35 2021 - System:: hello ticket with ID 44 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 19:28:50 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844627676177367080 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844627676177367080
+
+t: Wed May 19 19:29:29 2021 - Cluebo#9218:: Message: i did not just
+Attachements: 
+Message ID: 844627839097634897 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844627839097634897
+
+t: Wed May 19 19:29:32 2021 - Cluebo#9218:: Message: <a:peepoShook:756789588210614312>
+Attachements: 
+Message ID: 844627854606991360 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844627854606991360
+
+t: Wed May 19 19:29:38 2021 - Cluebo#9218:: Message: delete this function
+Attachements: 
+Message ID: 844627880151089152 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844627880151089152
+
+t: Wed May 19 19:33:10 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844628765745479737 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844628765745479737
+
+t: Wed May 19 19:33:10 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 19:33:10 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844628768609271819 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844628768609271819
+
+t: Wed May 19 19:33:24 2021 - Cluebo#9218:: Message: t.remove-user 422041326586953738
+Attachements: 
+Message ID: 844628823915626527 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844628823915626527
+
+t: Wed May 19 19:33:24 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 19:33:24 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844628827632304181 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844628827632304181
+
+t: Wed May 19 19:33:32 2021 - Cluebo#9218:: Message: <a:PU_PepeJamVibe:747841968951787530>
+Attachements: 
+Message ID: 844628859075690517 | Message URL: https://discord.com/channels/748086299147239464/844627608875696178/844628859075690517
+

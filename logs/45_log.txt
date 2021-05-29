@@ -1,0 +1,60 @@
+t: Sat May 22 19:08:54 2021 - System:: inf ticket with ID 45 opened by Felix B. (731156767966494810)
+
+t: Sat May 22 19:08:54 2021 - System - Message of ServerTicket#2203 edited:: Old Message: <@731156767966494810> Welcome!
+Old Attachements: 
+-------------------------
+New Message: <@731156767966494810> Welcome!
+New Attachements: 
+Message ID: 845709816311709716 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709816311709716
+
+t: Sat May 22 19:09:01 2021 - Cluebo#9218:: Message: hallo
+Attachements: 
+Message ID: 845709848854528020 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709848854528020
+
+t: Sat May 22 19:09:06 2021 - Cluebo#9218:: Message: sie wollen support
+Attachements: 
+Message ID: 845709867355209798 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709867355209798
+
+t: Sat May 22 19:09:10 2021 - Felix B.#6287:: Message: tschüs
+Attachements: 
+Message ID: 845709886699601972 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709886699601972
+
+t: Sat May 22 19:09:17 2021 - System:: Felix B.#6287 closed ticket-45!
+
+t: Sat May 22 19:09:17 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845709914579795988 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709914579795988
+
+t: Sat May 22 19:09:19 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845709921437483028 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709921437483028
+
+t: Sat May 22 19:09:19 2021 - System - Message of ServerTicket#2203 edited:: Old Message: 
+Old Attachements: 
+-------------------------
+New Message: 
+New Attachements: 
+Message ID: 845709914579795988 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845709914579795988
+
+t: Sat May 22 19:10:18 2021 - System:: Cluebo#9218 re-opened ticket-45!
+
+t: Sat May 22 19:10:19 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845710173644652544 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845710173644652544
+
+t: Sat May 22 19:10:23 2021 - Cluebo#9218:: Message: <@!731156767966494810>
+Attachements: 
+Message ID: 845710190875377704 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845710190875377704
+
+t: Sat May 22 19:10:24 2021 - Felix B.#6287:: Message: jojoojo
+Attachements: 
+Message ID: 845710195232866310 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845710195232866310
+
+t: Sat May 22 19:10:24 2021 - Cluebo#9218:: Message: hallo
+Attachements: 
+Message ID: 845710197388607528 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845710197388607528
+
+t: Sat May 22 19:10:26 2021 - Felix B.#6287:: Message: nice
+Attachements: 
+Message ID: 845710203289600010 | Message URL: https://discord.com/channels/748086299147239464/845709814428598353/845710203289600010
+

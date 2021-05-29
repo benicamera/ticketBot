@@ -1,0 +1,71 @@
+t: Wed May 19 16:38:03 2021 - System:: test ticket with ID 41 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 16:38:14 2021 - Cluebo#9218:: Message: <a:PU_PepeJamVibe:747841968951787530>
+Attachements: 
+Message ID: 844584743768948767 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844584743768948767
+
+t: Wed May 19 16:57:31 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844589594727940167 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844589594727940167
+
+t: Wed May 19 16:57:31 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 18:31:42 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844613300485357618 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844613300485357618
+
+t: Wed May 19 18:31:43 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 18:38:17 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844614956951404584 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844614956951404584
+
+t: Wed May 19 18:38:18 2021 - ServerTicket#2203:: Message: User already added
+Attachements: 
+Message ID: 844614959898820658 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844614959898820658
+
+t: Wed May 19 20:33:50 2021 - test
+
+t: Wed May 19 20:42:14 2021 - Log-command by Cluebo#9218:: test
+
+t: Fri May 21 10:23:58 2021 - System - Message of Cluebo#9218 edited:: Old Message: Not found
+-------------------------
+New Message: t.add-user 422041326586953738 edit
+New Attachements: 
+Message ID: 844614956951404584 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/844614956951404584
+
+t: Fri May 21 10:29:56 2021 - Cluebo#9218:: Message: hello
+Attachements: 
+Message ID: 845216832058032149 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845216832058032149
+
+t: Fri May 21 10:30:07 2021 - System - Message of Cluebo#9218 edited:: Old Message: <Message id=845216832058032149 channel=<TextChannel id=844584694015459339 name='ticket-41' position=7 nsfw=False news=False category_id=844582102271655976> type=<MessageType.default: 0> author=<Member id=372746847393021953 name='Cluebo' discriminator='9218' bot=False nick='Beni' guild=<Guild id=748086299147239464 name="Cluebo's test server" shard_id=0 chunked=False member_count=29>> flags=<MessageFlags value=0>>
+Old Attachemnts: 
+-------------------------
+New Message: hello edit
+New Attachements: 
+Message ID: 845216832058032149 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845216832058032149
+
+t: Fri May 21 14:41:02 2021 - System - Message of Cluebo#9218 edited:: Old Message: Not found
+-------------------------
+New Message: helloo
+New Attachements: 
+Message ID: 845216832058032149 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845216832058032149
+
+t: Fri May 21 14:46:17 2021 - System - Message of Cluebo#9218 edited:: Old Message: Old message not found
+New Attachements: 
+-------------------------
+New Message: hello
+New Attachements: 
+Message ID: 845216832058032149 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845216832058032149
+
+t: Fri May 21 14:46:40 2021 - Cluebo#9218:: Message: hi
+Attachements: 
+Message ID: 845281438970281994 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845281438970281994
+
+t: Fri May 21 14:46:47 2021 - System - Message of Cluebo#9218 edited:: Old Message: hi
+Old Attachements: 
+-------------------------
+New Message: hiii
+New Attachements: 
+Message ID: 845281438970281994 | Message URL: https://discord.com/channels/748086299147239464/844584694015459339/845281438970281994
+

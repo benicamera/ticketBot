@@ -1,0 +1,20 @@
+t: Wed May 19 16:42:43 2021 - System:: hello ticket with ID 42 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 18:39:21 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844615223796826162 | Message URL: https://discord.com/channels/748086299147239464/844585869510967296/844615223796826162
+
+t: Wed May 19 18:39:22 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 18:39:22 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844615226392707093 | Message URL: https://discord.com/channels/748086299147239464/844585869510967296/844615226392707093
+
+t: Wed May 19 18:39:28 2021 - Cluebo#9218:: Message: <a:peepoShook:756789588210614312>
+Attachements: 
+Message ID: 844615253404811326 | Message URL: https://discord.com/channels/748086299147239464/844585869510967296/844615253404811326
+
+t: Wed May 19 18:39:38 2021 - Cluebo#9218:: Message: did it ping? I'll find out
+Attachements: 
+Message ID: 844615293211770971 | Message URL: https://discord.com/channels/748086299147239464/844585869510967296/844615293211770971
+

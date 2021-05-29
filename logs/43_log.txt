@@ -1,0 +1,30 @@
+t: Wed May 19 16:42:52 2021 - System:: test ticket with ID 43 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 16:53:21 2021 - Cluebo#9218:: Message: t.add-user 422041326586953738
+Attachements: 
+Message ID: 844588548199677972 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844588548199677972
+
+t: Wed May 19 16:53:22 2021 - Invite-Command by Cluebo:: Added benjamingolic
+
+t: Wed May 19 16:53:29 2021 - Cluebo#9218:: Message: <a:PU_PepeJamVibe:747841968951787530>
+Attachements: 
+Message ID: 844588580747083796 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844588580747083796
+
+t: Wed May 19 16:53:31 2021 - Cluebo#9218:: Message: first try
+Attachements: 
+Message ID: 844588588581912636 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844588588581912636
+
+t: Wed May 19 19:26:55 2021 - Cluebo#9218:: Message: t.remove-user 422041326586953738
+Attachements: 
+Message ID: 844627196521087037 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844627196521087037
+
+t: Wed May 19 19:26:56 2021 - Invite-Command by Cluebo#9218:: Added benjamingolic#0001 - 422041326586953738
+
+t: Wed May 19 19:26:57 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844627201358168104 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844627201358168104
+
+t: Wed May 19 19:27:04 2021 - Cluebo#9218:: Message: <:PES_KingSip:585724567398645780>
+Attachements: 
+Message ID: 844627230272389120 | Message URL: https://discord.com/channels/748086299147239464/844585904278732830/844627230272389120
+

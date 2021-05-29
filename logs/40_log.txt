@@ -1,0 +1,42 @@
+t: Wed May 19 15:23:07 2021 - System:: test ticket with ID 40 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 15:23:16 2021 - System:: Cluebo#9218 closed ticket-40!
+
+t: Wed May 19 15:23:16 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844565878811918368 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844565878811918368
+
+t: Wed May 19 15:23:18 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844565884399910942 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844565884399910942
+
+t: Wed May 19 15:23:20 2021 - System:: Cluebo#9218 re-opened ticket-40!
+
+t: Wed May 19 15:23:21 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844565897522839572 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844565897522839572
+
+t: Wed May 19 16:10:14 2021 - System:: Cluebo#9218 closed ticket-40!
+
+t: Wed May 19 16:10:15 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844577700140023819 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844577700140023819
+
+t: Wed May 19 16:10:16 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844577705948610630 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844577705948610630
+
+t: Wed May 19 16:19:00 2021 - Cluebo#9218:: Message: !reopen
+Attachements: 
+Message ID: 844579902501027842 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844579902501027842
+
+t: Wed May 19 16:19:03 2021 - Cluebo#9218:: Message: t.reopen
+Attachements: 
+Message ID: 844579916459802694 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844579916459802694
+
+t: Wed May 19 16:19:04 2021 - System:: Cluebo#9218 re-opened ticket-40!
+
+t: Wed May 19 16:19:04 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844579921589436437 | Message URL: https://discord.com/channels/748086299147239464/844565836140118036/844579921589436437
+

@@ -1,0 +1,46 @@
+t: Wed May 19 14:17:03 2021 - System:: test ticket with ID 39 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 14:17:12 2021 - System:: Cluebo#9218 closed ticket-39!
+
+t: Wed May 19 14:17:12 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844549251916365904 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844549251916365904
+
+t: Wed May 19 14:17:13 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844549257208791080 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844549257208791080
+
+t: Wed May 19 14:17:20 2021 - System:: Cluebo#9218 re-opened ticket-39!
+
+t: Wed May 19 14:17:20 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844549286531563542 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844549286531563542
+
+t: Wed May 19 14:27:12 2021 - System:: Cluebo#9218 closed ticket-39!
+
+t: Wed May 19 14:27:12 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844551768750686239 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844551768750686239
+
+t: Wed May 19 14:27:14 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844551774319935499 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844551774319935499
+
+t: Wed May 19 14:32:38 2021 - System:: Cluebo#9218 re-opened ticket-39!
+
+t: Wed May 19 14:32:38 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844553136982196244 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844553136982196244
+
+t: Wed May 19 14:43:16 2021 - System:: Cluebo#9218 closed ticket-39!
+
+t: Wed May 19 14:43:16 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844555813267439616 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844555813267439616
+
+t: Wed May 19 14:43:18 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844555818422370314 | Message URL: https://discord.com/channels/748086299147239464/844549210039779359/844555818422370314
+
+t: Wed May 19 15:22:42 2021 - System:: Cluebo#9218 shut down ticket-39!
+

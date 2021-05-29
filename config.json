@@ -1,0 +1,21 @@
+{
+    "token": "ODM2OTY4NjgyNTU4OTgwMTk3.YIlt1A.d0YBdS0iIOx3T27f3JV9BbedM3A",
+    "join_message": "Joined the server to do stuff 🌟",
+    "owners": [
+        372746847393021953
+    ],
+    "prefix": [
+        "t."
+    ],
+    "activity": "t.help",
+    "activity_type": "playing|watching|listening|competing",
+    "status_type": "online|idle|dnd",
+    "version": "0.0.1",
+    "success": "0x157347",
+    "update": "0x0B5ED7",
+    "warning": "0xFFCA2C",
+    "error": "0xBB2D3B",
+    "modlogchannel": 610686813182623744,
+    "dev_channel": 748086299147239467,
+    "admin_role_id": 748089395726254160
+}

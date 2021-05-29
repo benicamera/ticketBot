@@ -1,0 +1,22 @@
+t: Wed May 19 13:49:24 2021 - System:: test ticket with ID 35 opened by Cluebo (372746847393021953)
+
+t: Wed May 19 13:49:30 2021 - System:: Cluebo#9218 closed ticket-35!
+
+t: Wed May 19 13:49:30 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844542280282669107 | Message URL: https://discord.com/channels/748086299147239464/844542251384045589/844542280282669107
+
+t: Wed May 19 13:49:31 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844542285622542348 | Message URL: https://discord.com/channels/748086299147239464/844542251384045589/844542285622542348
+
+t: Wed May 19 13:49:34 2021 - System:: Cluebo#9218 re-opened ticket-35!
+
+t: Wed May 19 13:49:34 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 844542298804060171 | Message URL: https://discord.com/channels/748086299147239464/844542251384045589/844542298804060171
+
+t: Wed May 19 13:50:23 2021 - Cluebo#9218:: Message: das kannst du dir nicht ausdenken
+Attachements: 
+Message ID: 844542500877500427 | Message URL: https://discord.com/channels/748086299147239464/844542251384045589/844542500877500427
+

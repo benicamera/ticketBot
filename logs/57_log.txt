@@ -1,0 +1,82 @@
+t: Tue May 25 20:47:13 2021 - System:: help ticket with ID 57 opened by Cluebo (372746847393021953)
+
+t: Tue May 25 20:47:13 2021 - System - Message of ServerTicket#2203 edited:: Old Message: <@!372746847393021953> Welcome!
+Old Attachements: 
+-------------------------
+New Message: <@!372746847393021953> Welcome!
+New Attachements: 
+Message ID: 846821714218582067 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846821714218582067
+
+t: Tue May 25 20:50:48 2021 - System:: Cluebo#9218 closed ticket-57!
+
+t: Tue May 25 20:50:48 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 846822621290299433 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846822621290299433
+
+t: Tue May 25 20:50:50 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 846822626689417216 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846822626689417216
+
+t: Tue May 25 20:50:50 2021 - System - Message of ServerTicket#2203 edited:: Old Message: 
+Old Attachements: 
+-------------------------
+New Message: 
+New Attachements: 
+Message ID: 846822621290299433 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846822621290299433
+
+t: Tue May 25 20:51:12 2021 - System:: Cluebo#9218 re-opened ticket-57!
+
+t: Tue May 25 20:51:13 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 846822722411429899 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846822722411429899
+
+t: Tue May 25 21:00:48 2021 - System:: Cluebo#9218 closed ticket-57!
+
+t: Tue May 25 21:00:49 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 846825138582454323 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846825138582454323
+
+t: Tue May 25 21:00:50 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 846825144974442506 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846825144974442506
+
+t: Tue May 25 21:00:51 2021 - System - Message of ServerTicket#2203 edited:: Old Message: 
+Old Attachements: 
+-------------------------
+New Message: 
+New Attachements: 
+Message ID: 846825138582454323 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/846825138582454323
+
+t: Sat May 29 20:26:18 2021 - System:: Cluebo#9218 re-opened ticket-57!
+
+t: Sat May 29 20:26:18 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 848265974558097439 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848265974558097439
+
+t: Sat May 29 20:27:45 2021 - ServerTicket#2203:: Message: Ticket is closing, this might take a wile...
+Attachements: 
+Message ID: 848266337994539079 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848266337994539079
+
+t: Sat May 29 20:27:45 2021 - System:: Cluebo#9218 closed ticket-57!
+
+t: Sat May 29 20:27:46 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 848266341549998131 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848266341549998131
+
+t: Sat May 29 20:27:47 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 848266347334598706 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848266347334598706
+
+t: Sat May 29 20:27:47 2021 - System - Message of ServerTicket#2203 edited:: Old Message: 
+Old Attachements: 
+-------------------------
+New Message: 
+New Attachements: 
+Message ID: 848266341549998131 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848266341549998131
+
+t: Sat May 29 20:36:18 2021 - System:: Cluebo#9218 re-opened ticket-57!
+
+t: Sat May 29 20:36:18 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 848268492527370310 | Message URL: https://discord.com/channels/748086299147239464/846821712422895737/848268492527370310
+

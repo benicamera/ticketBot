@@ -1,0 +1,49 @@
+t: Sat May 22 19:09:41 2021 - System:: inf ticket with ID 48 opened by Felix B. (731156767966494810)
+
+t: Sat May 22 19:09:42 2021 - System - Message of ServerTicket#2203 edited:: Old Message: <@731156767966494810> Welcome!
+Old Attachements: 
+-------------------------
+New Message: <@731156767966494810> Welcome!
+New Attachements: 
+Message ID: 845710015309283358 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845710015309283358
+
+t: Sun May 23 11:58:19 2021 - Cluebo#9218:: Message: t.add-user 515973693474865172
+Attachements: 
+Message ID: 845963852180619307 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845963852180619307
+
+t: Sun May 23 11:58:20 2021 - Add-Command by Cluebo#9218:: Added xxw11#8302 - 515973693474865172
+
+t: Sun May 23 11:58:20 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845963855091990557 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845963855091990557
+
+t: Sun May 23 11:58:31 2021 - Cluebo#9218:: Message: t.remove-user 515973693474865172
+Attachements: 
+Message ID: 845963903691128853 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845963903691128853
+
+t: Sun May 23 11:58:32 2021 - Remove-Command by Cluebo#9218:: Removed xxw11#8302 - 515973693474865172
+
+t: Sun May 23 11:58:32 2021 - ServerTicket#2203:: Message: 
+Attachements: 
+Message ID: 845963906299461633 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845963906299461633
+
+t: Sun May 23 11:58:36 2021 - Cluebo#9218:: Message: <a:PU_PepeJamVibe:747841968951787530>
+Attachements: 
+Message ID: 845963924965032036 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/845963924965032036
+
+t: Tue May 25 20:16:50 2021 - Cluebo#9218:: Message: t.topic hello
+Attachements: 
+Message ID: 846814073227706458 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/846814073227706458
+
+t: Tue May 25 20:25:44 2021 - Cluebo#9218:: Message: t.exec-sql ALTER TABLE categories ADD closed_cat_id INTEGER
+Attachements: 
+Message ID: 846816311211196446 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/846816311211196446
+
+t: Tue May 25 20:25:44 2021 - ServerTicket#2203:: Message: **Successful**
+Attachements: 
+Message ID: 846816312314822656 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/846816312314822656
+
+t: Tue May 25 20:25:44 2021 - ServerTicket#2203:: Message: `Empty result`
+Attachements: 
+Message ID: 846816313082380328 | Message URL: https://discord.com/channels/748086299147239464/845710013393010729/846816313082380328
+
