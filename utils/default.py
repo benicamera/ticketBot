@@ -35,7 +35,7 @@ def default_welcome_message():
     return msg
 
 
-"""Bessere Erro formattierung"""
+"""Bessere Errorformattierung"""
 
 
 def traceback_marker(err, advance: bool = True):
