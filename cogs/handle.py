@@ -45,9 +45,9 @@ class Handle(commands.Cog):
             if c > amount:
                 break
             status = "open"
-            if r[3] == 0:
+            if res[3] == 0:
                 status = "closed"
-            elif r[3] == -1:
+            elif res[3] == -1:
                 status = "shutdown"
             embed.add_field(name=f"{c}. ticket-{res[0]}", value=f"**Category:** {res[1]}\n  **Time:** {res[2]}\n"
                                                                 f"**Topic:** {res[4]}\n  **Status:** {status}\n")

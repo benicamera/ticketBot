@@ -109,11 +109,17 @@ class Setup(commands.Cog):
         cursor.execute(f"DROP TABLE IF EXISTS {name}")
         # hole Discord-Kategorie
         cat = discord.utils.get(ctx.guild.channels, id=r[1])
+        cursor.execute(f"SELECT closed_cat_id FROM categories WHERE name=?", [r[0]])
+        s = cursor.fetchone()
+        closed_category = discord.utils.get(ctx.guild.channels, id=s[0])
         # lösche alle Kanäle unter der Kategorie
         for ch in cat.channels:
             await ch.delete()
+        for ch in closed_category.channels:
+            await ch.delete()
         # lösche Kategorie
         await cat.delete()
+        await closed_category.delete()
         # lösche Datenbank eintrag
         cursor.execute("DELETE FROM categories WHERE name=?", [name])
         cursor.close()
@@ -182,9 +188,15 @@ class Setup(commands.Cog):
         cursor.execute(f"INSERT INTO {category} (role_id) VALUES (?)", [role_id])
 
         # mache Kategorie sichtbar für die Rolle
-        cursor.execute("SELECT cat_id FROM categories WHERE name=?", [category])
-        category = discord.utils.get(ctx.guild.channels, id=r[1])
+        cursor.execute("SELECT cat_id, closed_cat_id FROM categories WHERE name=?", [category])
+        r = cursor.fetchone()
+        category = discord.utils.get(ctx.guild.channels, id=r[0])
+        closed_category = discord.utils.get(ctx.guild.channels, id=r[1])
         await category.set_permissions(role, view_channel=True)
+        for ch in category.channels:
+            await ch.set_permissions(role, view_channel=True)
+        for ch in closed_category.channels:
+            await ch.set_permissions(role, view_channel=True)
         db.commit()
         cursor.close()
         db.close()
@@ -222,10 +234,14 @@ class Setup(commands.Cog):
             return
         # lösche Rolle aus Tabelle
         cursor.execute(f"DELETE FROM {category} WHERE role_id=?", [role_id])
-        cursor.execute("SELECT cat_id FROM categories WHERE name=?", [category])
-        category = discord.utils.get(ctx.guild.channels, id=r[1])
-        # setze Sichtbarkeit der Kategorie auf Unsichtbar
+        cursor.execute("SELECT cat_id, closed_cat_id FROM categories WHERE name=?", [category])
+        category = discord.utils.get(ctx.guild.channels, id=r[0])
+        closed_category = discord.utils.get(ctx.guild.channels, id=r[1])
         await category.set_permissions(role, view_channel=False)
+        for ch in category.channels:
+            await ch.set_permissions(role, view_channel=False)
+        for ch in closed_category.channels:
+            await ch.set_permissions(role, view_channel=False)
         db.commit()
         cursor.close()
         db.close()
@@ -235,7 +251,7 @@ class Setup(commands.Cog):
     @edit_cat.command(name="react-msg", help="Edits the opener message of the category.")
     @commands.guild_only()
     @commands.has_role("Admin")
-    async def react_msg(self, ctx, category: str, text: str):
+    async def react_msg(self, ctx, category: str, *, text: str):
         # sql
         db = sqlite3.connect('main.db')
         cursor = db.cursor()

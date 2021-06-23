@@ -108,6 +108,7 @@ class Ticket(commands.Cog):
 
     # Level-3 Funktion: schließt / löscht Ticket
     async def _shutdown(self, channel_id: int, user_id: int):
+        print(10)
         # sql-verbindung
         db = sqlite3.connect('main.db')
         cursor = db.cursor()
@@ -123,7 +124,7 @@ class Ticket(commands.Cog):
         # wenn noch offen, oder bereits gelöscht
         if r[6] == 1 or r[6] == -1:
             return
-
+        print(10)
         user = await self.bot.fetch_user(user_id)
 
         # status aktualisieren, channel löschen und log machen
@@ -185,28 +186,6 @@ class Ticket(commands.Cog):
         with open(f"logs/{t_id}_log.txt", 'a') as lf:
             log = f"t: {str(time.ctime())} - {log_msg}\n\n"
             lf.write(log)
-
-    # level-1 Funktion. öffnet Ticket
-    @commands.command(name="open", help="Opens a ticket in the category given.")
-    @commands.guild_only()
-    async def open(self, ctx, category: str):
-        # sql-verbindung
-        db = sqlite3.connect('main.db')
-        cursor = db.cursor()
-
-        # wenn Kategorie nicht gefunden
-        cursor.execute("SELECT * FROM categories WHERE name=?", [category])
-        r = cursor.fetchone()
-        if r is None:
-            await ctx.send(f"Category '{category}' not found.")
-            cursor.close()
-            db.close()
-            return
-        # ticket öffnen, feedback geben und sql-verbindung schliessen
-        await self.open_ticket(ctx.guild, category, ctx.author.id)
-        await ctx.message.add_reaction("✅")
-        cursor.close()
-        db.close()
 
     # Level-2 Funktion: öffnet Ticket
     async def open_ticket(self, guild: discord.Guild, cat: str, user_id: int):
@@ -328,6 +307,7 @@ class Ticket(commands.Cog):
             embed.add_field(name="Moderating Roles", value=show_roles, inline=False)
 
             # Fasse Status als Wörter
+
             status = "open"
             if r[6] == 0:
                 status = "closed"
@@ -605,6 +585,7 @@ class Ticket(commands.Cog):
     @commands.command(name="reopen", help="Reopens the ticket, the command is executed in.")
     @commands.guild_only()
     async def reopen(self, ctx):
+        print(1)
         if not self.is_in_ticket(ctx.channel.id):
             await ctx.send(f"You are not in a ticket channel")
             return
@@ -615,7 +596,7 @@ class Ticket(commands.Cog):
     async def _reopen(self, channel_id: int, user_id: int, guild: discord.Guild):
         db = sqlite3.connect('main.db')
         cursor = db.cursor()
-
+        print(2)
         cursor.execute("SELECT * FROM tickets WHERE channel_id = ?", [channel_id])
         r = cursor.fetchone()
         if r is None:
@@ -637,8 +618,11 @@ class Ticket(commands.Cog):
         for m in members:
             await self.set_view_perms(channel, m, True)
 
+        print(3)
+        cursor.execute(f"SELECT cat_id FROM categories WHERE name=?", [r[2]])
+        open_category = closed_category = guild.get_channel(cursor.fetchone()[0])
         # ticket umbennenen
-        await channel.edit(name=f"ticket-{r[0]}")
+        await channel.edit(name=f"ticket-{r[0]}", category=open_category)
         log = f"System:: {user.name}#{user.discriminator or ''} re-opened ticket-{r[0]}!"
         self._write_log(r[0], log)
         emd = discord.Embed(color=0x79ee09)
