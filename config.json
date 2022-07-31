@@ -2,7 +2,7 @@
     "token": "CrazyToken1",
     "join_message": "Joined the server to do stuff 🌟",
     "owners": [
-        372746847393021953
+        crazyOwner
     ],
     "prefix": [
         "t."
